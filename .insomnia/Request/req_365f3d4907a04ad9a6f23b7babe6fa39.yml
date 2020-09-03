@@ -1,0 +1,21 @@
+_id: req_365f3d4907a04ad9a6f23b7babe6fa39
+authentication: {}
+body: {}
+created: 1599123839793
+description: ""
+headers: []
+isPrivate: false
+metaSortKey: -1599123839793
+method: GET
+modified: 1599123849988
+name: My Request
+parameters: []
+parentId: wrk_680769120b714ca3956475d894670d42
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingFollowRedirects: global
+settingRebuildPath: true
+settingSendCookies: true
+settingStoreCookies: true
+type: Request
+url: https://github.com/Everythingmaybe/period-form-for-aim-consalting
